@@ -3,4 +3,5 @@ A GUI which integrated the functions of Basler camera, Sutter MP285A and Prior P
 The project is written according to the MVC(Model–view–controller)structure. 
 Thus, the main program is control.py. The camera functions is coded in the control part as well.
 Pyqt and Qtdesigner is used to design the GUI, the functions is achieved mainly depend on main window. The python documents will be converted from ui documents by PyUIC.
-Besises, two sub window is designed for paramerter setting of Sutter MP285A and Prior controller, the related functions is coded in corresponding .py documents.
+Therefore, SubwinS and SubwinP is the corresponding python document generated from usutter.ui and uprior.ui.
+These two sub window is designed for paramerter setting of Sutter MP285A and Prior controller, the related functions is coded in Sutter.py and Prior.py. They all can be called in control part.
