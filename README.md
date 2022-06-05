@@ -21,8 +21,9 @@ Needed packages has been listed in the requirements,people can dierctly install 
 
 ## Usage
 
- Connect related devices with your computer, run `control.py` whcih act as the main program. And then peopele can use the GUI to command the micro system.
+ Connect related devices with your computer, run `control.py` whcih act as the main program. And then peopele can use the GUI to command the micro system. 
+ And further setting can be reset in menu-setting.
  ![image](https://github.com/Quzijia/Micro-robotic-for-cell-manipulation/blob/master/example-GUI/QQ%E5%BD%95%E5%B1%8F20220528135409_Moment(2).jpg)
- Further settings of devices can been found in menu-setting.
+
 
 
