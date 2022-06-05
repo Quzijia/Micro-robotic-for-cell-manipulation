@@ -22,5 +22,11 @@ Needed packages has been listed in the requirements,people can dierctly install 
 ## Usage
 
  Connect related devices with your computer, run `control.py` whcih act as the main program. And then peopele can use the GUI to command the micro system.
+ ![image](https://github.com/Quzijia/Micro-robotic-for-cell-manipulation/blob/master/example-GUI/QQ%E5%BD%95%E5%B1%8F20220528135409_Moment(2).jpg)
+ Further settings of devices can been found in manu-setting.
+ ![image](https://github.com/Quzijia/Micro-robotic-for-cell-manipulation/blob/master/example-GUI/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202022-06-05%20173814.png)
+ ![image](https://github.com/Quzijia/Micro-robotic-for-cell-manipulation/blob/master/example-GUI/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202022-06-05%20173843.png)
+ ![image](https://github.com/Quzijia/Micro-robotic-for-cell-manipulation/blob/master/example-GUI/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202022-06-05%20173858.png)
+ ![image](https://github.com/Quzijia/Micro-robotic-for-cell-manipulation/blob/master/example-GUI/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202022-06-05%20173912.png)
 
 
