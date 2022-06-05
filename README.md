@@ -15,7 +15,7 @@ record the images and video. Parameters of each devices can be set in subwindows
 
 ## Install
 
-### Needed packages has been listed in the requirements,people can dierctly install the requirments.text
+Needed packages has been listed in the requirements,people can dierctly install the requirments.text
 
 ``pip install -r /path/to/requirements.txt``
 
