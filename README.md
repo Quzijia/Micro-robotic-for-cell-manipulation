@@ -9,8 +9,8 @@
 
 ## Background
 
-Manul micro cell manipulation is always professional and challenging, to help researchers obtain the infromation of cells and do basic cell manipultation, 
-we developed this application. Peopele can use keyboard and mouse to control the microscope stage and a 3-DOF micro manipulator. Besides, the camera can automaticly 
+Manual micro cell manipulation is always professional and challenging, to help researchers obtain the information of cells and do basic cell manipulation, 
+we developed this application. People can use keyboard and mouse to control the microscope stage and a 3-DOF micro manipulator. Besides, the camera can automaticly 
 record the images and video. Parameters of each devices can be set in subwindows as well.
 
 ## Install
